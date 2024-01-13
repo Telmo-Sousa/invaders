@@ -18,7 +18,7 @@ git clone https://github.com/Telmo-Sousa/invaders.git
 2. Navigate to the `invaders` directory:
 
 ```bash
-cd invert
+cd invaders
 ```
 
 3. Run the necessary Rust related commands:
@@ -34,4 +34,5 @@ cargo run
 | `left arrow` | Move left |
 | `right arrow` | Move right |
 | `space` | Shoot |
+| `enter` | Shoot |
 | `q` | Quit |

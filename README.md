@@ -31,7 +31,7 @@ cargo run
 
 | Key | Action |
 | --- | --- |
-| `a` | Move left |
-| `d` | Move right |
+| `left arrow` | Move left |
+| `right arrow` | Move right |
 | `space` | Shoot |
 | `q` | Quit |

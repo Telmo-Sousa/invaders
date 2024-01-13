@@ -1,0 +1,1 @@
+/Users/telmo/invaders/target/debug/libinvaders.rlib: /Users/telmo/invaders/src/frame.rs /Users/telmo/invaders/src/invaders.rs /Users/telmo/invaders/src/lib.rs /Users/telmo/invaders/src/player.rs /Users/telmo/invaders/src/render.rs /Users/telmo/invaders/src/shot.rs

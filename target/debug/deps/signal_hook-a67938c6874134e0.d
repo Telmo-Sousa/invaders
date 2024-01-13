@@ -1,0 +1,11 @@
+/Users/telmo/projects/rust/invaders/target/debug/deps/libsignal_hook-a67938c6874134e0.rmeta: /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs
+
+/Users/telmo/projects/rust/invaders/target/debug/deps/libsignal_hook-a67938c6874134e0.rlib: /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs
+
+/Users/telmo/projects/rust/invaders/target/debug/deps/signal_hook-a67938c6874134e0.d: /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs /Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs
+
+/Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs:
+/Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs:
+/Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs:
+/Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs:
+/Users/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs:

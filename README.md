@@ -3,7 +3,7 @@ Open source terminal arcade game with audio - based off of the classic Space Inv
 
 ## Project Demo
 
-![Demo](/resources/recording.gif)
+![Demo](/resources/invaders.gif)
 
 ## Usage Instructions
 

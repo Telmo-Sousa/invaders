@@ -1,5 +1,6 @@
 # invaders
-Open source terminal arcade game with audio - based off of the classic Space Invaders - written in Rust
+
+This is a command-line implementation of the classic arcade game Space Invaders, written in Rust. It uses the crossterm crate to handle terminal input and output, and the rusty_audio crate to play sound effects. The game features a player that can move left and right and shoot bullets, as well as a horde of invaders that move down the screen. The game supports audio effects for various actions, such as moving, shooting, and winning or losing. The game loop runs in a separate thread to allow for smooth rendering and input handling. The game ends when the player is hit by an invader or when all invaders are destroyed. The terminal is restored to its original state after the game ends.
 
 ## Project Demo
 
